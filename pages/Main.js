@@ -1,6 +1,5 @@
 "use client";
 import { Card, Grid, Text } from "@nextui-org/react";
-import { useEffect, useState } from "react";
 
 const Main = ({ items }) => {
   return (
